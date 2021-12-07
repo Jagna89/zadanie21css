@@ -1,0 +1,22 @@
+.element{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.element3 {
+  background-color: blue;
+}
+.element4{
+  background-color: blue;
+}
+.element5{
+  background-color: blue;
+}
+
+.element6{
+  opacity:0.6;
+
+}.element7{
+  opacity:0.3;
+}
